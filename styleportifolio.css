@@ -1,0 +1,107 @@
+.row1{
+    padding-top: 150px;
+}
+
+
+.title1{
+    color: #001327;
+    font-family: 'Secular One', sans-serif;
+    text-align: center;
+}
+
+.title2{
+    color: #001327;
+    font-family: 'Secular One', sans-serif;
+    text-align: center;
+}
+
+.body1{
+
+    background-color: rgb(255, 255, 255);
+    /*
+    background: -webkit-gradient(linear, left top, left bottom, from(#3d613f), to(#b5fca7));
+    background: -moz-linear-gradient(top, #3d613f, #b5fca7);
+    filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#3d613f', EndColorStr='#b5fca7');
+    */
+}
+
+.button1{
+    background-color: #00132700;
+    color: #001327;
+    border: 1px solid #001327;
+    text-align: center;
+    font-family: 'Secular One', sans-serif;
+    padding: 10px;
+    transition: all 0.9s;
+    cursor: pointer;
+    text-decoration: white;
+    
+}
+
+.button1:hover{
+    background-color: #001327;
+    color: white;
+}
+
+
+
+
+
+.row2{
+    padding-top: 30px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.row3{
+    padding-top: 50px;
+    text-align: center;
+    
+}
+
+.row4{
+    padding-top: 10px;
+    text-align: center;
+    padding-bottom: 10px;
+    
+}
+
+.text1{
+    font-size: 20px;
+}
+
+.btnlogo{
+    text-decoration: none;
+}
+
+.sectiontrab{
+    padding-top: 100px;
+    padding-bottom: 200px;
+    color: #001327;
+    background-color: wheat;
+}
+
+
+.img{
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.425);
+}
+
+
+
+.sectiontrab{
+    padding-bottom: 200px;
+}
+
+.p1{
+    text-align: center;
+}
+
+.section-about{
+    padding-bottom: 160px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.425);
+}
+.colCalc{
+    padding-bottom: 20px;
+}
+
